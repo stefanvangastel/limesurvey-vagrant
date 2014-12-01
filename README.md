@@ -16,7 +16,7 @@ This Vagrantfile creates a simple Ubuntu 14.04 x64 server box with PHP, MySQL an
 
 - Make sure you've installed prerequisites
 - Open terminal,`cd` to working directory and clone the project:
--`git clone https://github.com/stefanvangastel/limesurvey-vagrant.git`
+- `git clone https://github.com/stefanvangastel/limesurvey-vagrant.git`
 - Run `vagrant up` to start and provision the machine
 - Run web browser and go to `http://192.168.33.98/`
 

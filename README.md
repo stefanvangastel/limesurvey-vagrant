@@ -20,9 +20,10 @@ This Vagrantfile creates a simple Ubuntu 14.04 x64 server box with PHP, MySQL an
 - Run `vagrant up` to start and provision the machine
 - Run web browser and go to `http://192.168.33.98/`
 
-- To log in to vagrant box execute `vagrant ssh`
+- To log into the vagrant box execute `vagrant ssh`
 - To turn off virtual machine execute `vagrant halt`
-- To clean up execute `vagrant destroy`
+- To start the virtual machine again run `vagrant up` again
+- To clean up and remove all traces of the virtual machine execute `vagrant destroy`
 
 ## Default connection parameters
 

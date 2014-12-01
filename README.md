@@ -36,10 +36,16 @@ This Vagrantfile creates a simple Ubuntu 14.04 x64 server box with PHP, MySQL an
 ## Packages and libraries that come with the box
 
 - apache2
+- git-core
 - php5 (5.5)
 - php5-cli
 - php5-mysql
 - php5-dev
+- php5-curl 
+- php5-mcrypt 
+- php5-gd 
+- php5-ldap 
+- php5-imap
 - mysql-server
 - git-core
 - vim
